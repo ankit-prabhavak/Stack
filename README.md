@@ -1,2 +1,2 @@
 # Stack
-Stack implementation using array and linked list both in C language.
+Stack implementation using both array and linked list in C language.
